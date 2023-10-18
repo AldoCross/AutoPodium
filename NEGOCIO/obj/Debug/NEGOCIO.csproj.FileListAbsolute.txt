@@ -1,0 +1,39 @@
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.csprojResolveAssemblyReference.cache
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\DATOS.dll
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\ENTIDAD.dll
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\DATOS.pdb
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\ENTIDAD.pdb
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\NEGOCIO\bin\Debug\DATOS.dll.config

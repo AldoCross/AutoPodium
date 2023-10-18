@@ -1,0 +1,21 @@
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\ENTIDAD\bin\Debug\ENTIDAD.dll
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\ENTIDAD\bin\Debug\ENTIDAD.pdb
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.dll
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.pdb
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\bin\Debug\ENTIDAD.dll
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\bin\Debug\ENTIDAD.pdb
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.dll
+C:\Users\Usuario\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.pdb
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\bin\Debug\ENTIDAD.dll
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\bin\Debug\ENTIDAD.pdb
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.csprojResolveAssemblyReference.cache
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.dll
+C:\Users\Star\Desktop\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.pdb
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\bin\Debug\ENTIDAD.dll
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\bin\Debug\ENTIDAD.pdb
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.csprojAssemblyReference.cache
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.dll
+C:\Users\aldoc\Downloads\Sistema Ventas Autos\Proyecto\Proyecto\ENTIDAD\obj\Debug\ENTIDAD.pdb
